@@ -13,7 +13,7 @@ Hello facilitator/notary! Thank you for your services. Here is some advice for f
   - If you don't want to take notes yourself ask someone else to take care of that. (This pad can easily be used to read from and write in simultaneously.)
   - Go through the ordered points in order, even if nothing has changed. (They are arranged to try and get the most relevant information to most people.)
   - Feel welcome to moderate conversation if off-topic or too detailed. (Are listeners interested? Are speakers satisfied? Can you identify a sub-group?)
-  - Try to finish the meeting before 11:00. (There is always more to talk about and it's important for people to know that CoMes don't take forever.)
+  - Try to finish the meeting before 11:00. (There is always more to talk about and it's important for people to know that CoMes don't take forever.)476491
   - Leave the room once the meeting has ended. (This sends a clear signal to everyone else that they can also leave and get on with their day.)
   - Take care that the meeting minutes will be put to kanthaus.online. (If you don't know how to do it, ask someone to help you with it. But do it today!) 
   - Maybe these notes helps you to do it by your own: Github-Link: https://github.com/kanthaus/kanthaus.online/tree/master/user/pages/40.governance/90.minutes Steps: 1) Click "Create new file" 2) Type as Name "year-months-day_CoMe/item.md" example: 2020-03-02_CoMe/item.md 3) Copy CoMe-minutes from the "Bearbeiten Modus" (black window) 4) Click "Commit new file" That´s it! After a few minutes the CoMe-minutes should appear on the website.     
